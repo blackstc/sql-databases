@@ -1,0 +1,2 @@
+DROP DATABASE url_shortener_charlie_blackstock;
+CREATE DATABASE url_shortener_charlie_blackstock;
